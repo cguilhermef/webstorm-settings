@@ -1,10 +1,4 @@
 <keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
-  <action id="EditorDecreaseFontSize">
-    <mouse-shortcut keystroke="shift button142" />
-  </action>
-  <action id="EditorIncreaseFontSize">
-    <mouse-shortcut keystroke="shift button143" />
-  </action>
   <action id="EditorResetFontSize">
     <mouse-shortcut keystroke="shift button2" />
   </action>
