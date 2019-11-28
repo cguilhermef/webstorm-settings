@@ -5,6 +5,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
+  <option name="SOFT_MARGINS" value="105" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
   </CssCodeStyleSettings>
