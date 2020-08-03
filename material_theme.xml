@@ -1,10 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="tabsHeight" value="34" />
-    <option name="accentColor" value="015b91" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-23cbed2f:1690ab9f9f1:-8000" />
     <option name="version" value="5.2.0" />
   </component>
